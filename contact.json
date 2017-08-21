@@ -1,0 +1,30 @@
+[
+  {
+	firstName: 'Arief',
+	lastName: 'Adi Nugroho',
+	organization: 'org',
+	phoneNumber: '081327210023',
+	address: 'Address for Arief',
+  },
+  {
+    firstName: 'Ahmad',
+	lastName: 'Burhanudin',
+	organization: 'karangtaruna',
+	phoneNumber: '081333222223',
+	address: 'Alamatnya Ahmad Burhanudin di jalan burhanudin nomer sembilan juta tujuh puluh ribu enam ratus tiga puluh tujuh point empat sembilan',
+  },
+  {
+	firstName: 'Shidqin',
+	lastName: 'Aliya',
+	organization: 'org',
+	phoneNumber: '081327210000',
+	address: 'Alamatnya aliya',
+  },
+  {
+	firstName: 'Putry',
+	lastName: 'Hamidah',
+	organization: 'karangtaruna',
+	phoneNumber: '081111110023',
+	address: 'Alamat Putri saja...',
+  },
+]
